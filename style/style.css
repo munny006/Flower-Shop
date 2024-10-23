@@ -118,3 +118,19 @@ header{
     text-decoration-line: underline;
 
 }
+.group-image{
+    float: left;
+    margin-left: 235px;
+    width: 200px;
+    margin-top: 12px;
+}
+.card-text-1{
+    text-align: center;
+    float: left;
+    margin-left: 181px;
+}
+.card-text-2{
+    text-align: center;
+    float: left;
+    margin-left: 243px;
+}
