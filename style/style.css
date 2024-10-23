@@ -163,3 +163,27 @@ header,#hot-deal{
 .hot-deal-image{
     max-width: 318px;
 }
+#newsletter{
+    margin: 128px 0;
+
+}
+.newsletter-main{
+    background-image: url("../image/Rectangle\ 9.png");
+
+}
+.newsletter-main form{
+    max-width: 800px;
+    margin: 20px auto;
+    display:flex;
+    gap: 10px;
+    
+}
+.newsletter-main form input{
+    width: 600px;
+    flex-grow: 1;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    font-size: 20px;
+    outline: none;
+}
